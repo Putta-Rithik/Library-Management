@@ -13,8 +13,6 @@ A simple, efficient, and easy-to-use Library Management System built in Python. 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
-* **Database:** SQLite3 (Standard Library) *[Update if using something else]*
-* **UI:** Command Line Interface (CLI) *[Change to Tkinter/PyQt if it's a GUI app]*
 
 ## 🚀 Getting Started
 
