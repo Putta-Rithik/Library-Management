@@ -6,9 +6,7 @@ A simple, efficient, and easy-to-use Library Management System built in Python. 
 
 * **Book Management:** Add, update, delete, or search for books in the library.
 * **Member Management:** Register new users and manage existing member records.
-* **Transaction Tracking:** Issue books to members and process returns with automated logging.
-* **Search Functionality:** Easily search for books by title, author, or ISBN.
-* **Data Storage:** Uses [SQLite / JSON / Text files - *choose one*] for lightweight and reliable data storage.
+
 
 ## 🛠️ Tech Stack
 
