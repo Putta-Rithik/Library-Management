@@ -10,6 +10,8 @@ A simple, efficient, and easy-to-use Library Management System built in Python. 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
+* streamlit
+
 
 ## 🚀 Getting Started
 
